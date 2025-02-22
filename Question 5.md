@@ -36,7 +36,6 @@
 <li>
 <p>“Save User” button should store the entered data.</p>
 </li>
-<li></li>
 </ul>
 <h3 id="navigation-bar">3.3 Navigation Bar</h3>
 <ul>
