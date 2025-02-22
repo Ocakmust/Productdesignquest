@@ -12,7 +12,7 @@
 <li>Users should have one of the roles (Guest, Admin, SuperAdmin).</li>
 <li>The UI should support enabling/disabling users.</li>
 <li>The UI should have filter options through the users.</li>
-<li>The UI should show editing page and list of users simultinousy.</li>
+<li>The UI should show editing page and list of users simultaneously.</li>
 </ul>
 <h2 id="ui-components">3. UI Components</h2>
 <h3 id="list-of-users">3.1  List of Users</h3>
@@ -47,6 +47,6 @@
 <ul>
 <li>On loading, the user table should fetch existing users.</li>
 <li>Clicking “New User” clears the form for new input.</li>
-<li>Selecting a user from the table populates the form for editing.</li>
+<li>Selecting a user from the table shows the form for editing.</li>
 </ul>
 
